@@ -5,7 +5,7 @@ Project Description
 Setup Instructions
 1. Clone the repository:
     ```bash
-    git clone git@github.com:/JuliPolu/ml_example.git
+    git clone git@github.com:JuliPolu/ML_source-code-example.git
     cd ml_example
     ```
 2. Create a project:
